@@ -1,0 +1,35 @@
+body {
+  margin: 0%;
+  padding: 0%;
+  color: black;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: skyblue;
+}
+.main {
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 12px;
+  background: pink;
+  border-radius: 5px;
+  box-shadow: rgb(4, 96, 196) 0 px 20px 30px -10px;
+}
+input {
+  outline: none;
+  border: none;
+  padding: 5px;
+}
+button {
+  color: black;
+  padding: 10px;
+  border: 2px solid white;
+  background: plum;
+  display: block;
+  margin-top: 10%;
+  cursor: pointer;
+}
+span {
+  color: purple;
+}
+
